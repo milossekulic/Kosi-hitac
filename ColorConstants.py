@@ -1,0 +1,5 @@
+ColorWhite = (0, 0, 0)
+ColorGreen = (0, 255, 0)
+ColorRed = (255, 0, 0)
+ColorBlue = (0, 0, 255)
+ColorSkyBlue = (135, 206, 250)
